@@ -2,6 +2,7 @@ body{
     background-image: url("/images/backg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    text-align: center;
   }
  .card{
   border: black solid;
